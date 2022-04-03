@@ -42,7 +42,7 @@
 ### :trophy: My Github Stats
 <div align="left">
   <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=krithika2411&&show_icons=true&theme=nightowl">
-  <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com?user=krithika2411&show_icons=true&theme=tokyonight&fire=DD2727">
+  <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com?user=krithika2411&show_icons=true&theme=nightowl&fire=DD2727">
 </div>
 </br>
 <div align="center"> 
