@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Krithika</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=DFB4FE&center=true&lines=Open+source+Enthusiast;Front-End+Web+Developer;Designer&center=true&width=380&height=45"></a></p>
-<p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=krithika2411.krithika2411"> <img src="https://img.shields.io/github/followers/krithika2411?label=Follow&style=social)](https://github.com/krithika2411"></p>
+<p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=krithika2411.krithika2411"> <img src="https://img.shields.io/github/followers/krithika2411?tab=followers)](https://github.com/krithika2411">
+</p>
 
 - 🔭 I’m currently working on MEAN Stack.
 - ✨ I’m currently learning Machine Learning.
