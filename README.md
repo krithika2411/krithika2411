@@ -40,8 +40,9 @@
 
 
 ### :trophy: My Github Stats
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krithika2411&&show_icons=true&theme=nightowl">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=krithika2411&&show_icons=true&theme=nightowl">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=krithika2411&show_icons=true&theme=tokyonight&fire=DD2727">
 </div>
 </br>
 <div align="center"> 
@@ -49,6 +50,6 @@
 </div>
 </br>
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=krithika2411&show_icons=true&theme=tokyonight&fire=DD2727">
+  
 </div>
 
