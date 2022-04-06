@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Krithika</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=DFB4FE&center=true&lines=Open+source+Enthusiast;Front-End+Web+Developer;Designer&center=true&width=380&height=45"></a></p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=DFB4FE&center=true&lines=Open+source+Enthusiast;Front-End+Web+Developer;Designer&center=true&width=380&height=55"></a></p>
 <p align="center">
 <p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=krithika2411.krithika2411"> <img src="https://img.shields.io/github/followers/krithika2411?tab=followers)](https://github.com/krithika2411">
 </p>
