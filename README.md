@@ -46,7 +46,7 @@
 </div>
 </br>
 <div align="center"> 
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=krithika2411&theme=react-light">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=krithika2411&theme=react-dark&hide_border=true&custom_title=Activity%20Graph">
 </div>
 </br>
 <div align="center">
