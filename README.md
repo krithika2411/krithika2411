@@ -11,6 +11,7 @@
 - 🤩 I always try to explore and learn something new.
 - 💬 Ask me about Web Developement
 - 😄 Pronouns: She/Her
+- 👩‍💻 GDSC'23 Lead of UMIT
 - ⚡ Fun fact: I like to connect with people
 - 📫 How to reach me: 
 <p>
@@ -32,10 +33,13 @@
 <code><img height="40" src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
+  <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></code>
 <code><img height="40", width="78" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
+ 
 </p>
 
 
@@ -46,10 +50,12 @@
 </div>
 </br>
 <div align="center"> 
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=krithika2411&theme=react-dark">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=krithika2411&theme=dracula">
 </div>
 </br>
 <div align="center">
+<!--  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   <img src="./asset/redical.svg" height=250 alt="graph"/>  -->
   
 </div>
 
