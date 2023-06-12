@@ -48,6 +48,7 @@
   <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=krithika2411&&show_icons=true&theme=tokyonight">
   <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com?user=krithika2411&show_icons=true&theme=tokyonight&fire=DD2727">
 </div>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krithika2411&show_icons=true&locale=en&layout=compact" alt="krithika2411" /></p> -->
 </br>
 <div align="center"> 
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=krithika2411&theme=dracula">
