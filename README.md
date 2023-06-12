@@ -33,8 +33,8 @@
 <code><img height="40" src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
-  <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></code>
-<code><img height="40", width="78" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></code>
+<code><img height="40", width="79" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
